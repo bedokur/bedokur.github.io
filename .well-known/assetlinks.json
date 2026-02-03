@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.nijaz_galimov.passwordstore.debug",
+    "sha256_cert_fingerprints":
+    ["8D:87:99:7E:D6:2E:21:42:7D:7E:01:45:4F:29:2E:C9:4D:C3:BC:85:D1:12:9D:37:D1:F6:E1:48:FD:B5:F9:09"]
+  }
+}]
